@@ -1,6 +1,6 @@
 <!-- Banner Image: Agar aap banner banate hain to use 'banner.png' naam se upload karein -->
 <p align="center">
-  <img src="banner.png" alt="Swami Shankar Banner" width="100%" />
+  <img src="banner.png.png" alt="Swami Shankar Banner" width="100%" />
 </p>
 
 # 💫 Hi 👋, I'm Swami Shankar
