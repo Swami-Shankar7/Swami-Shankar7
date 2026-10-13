@@ -1,4 +1,4 @@
-<!-- Banner Image: Agar aap banner banate hain to use 'banner.png' naam se upload karein -->
+<!-- Banner Image -->
 <p align="center">
   <img src="banner.png.png" alt="Swami Shankar Banner" width="100%" />
 </p>
@@ -46,7 +46,7 @@ A passionate Cyber Security student focused on digital forensics, cyber crime in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skshankar805&show_icons=true&theme=tokyonight" alt="Swami Shankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skshankar805-cmyk&show_icons=true&theme=tokyonight" alt="Swami Shankar's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skshankar805&theme=tokyonight" alt="Swami Shankar's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skshankar805-cmyk&theme=tokyonight" alt="Swami Shankar's GitHub Streak" />
 </p>
